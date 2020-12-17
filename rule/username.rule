@@ -1,0 +1,14 @@
+[easy]
+$S$
+$S$$common_number$
+$S$$N$
+$N$
+$D:$$common_number$
+$D:$$N$
+$D:$
+$S$$special$
+$D:$special$
+
+[normal]
+
+[hard]
