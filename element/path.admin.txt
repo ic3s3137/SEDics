@@ -1,0 +1,8 @@
+[easy]
+admin
+admin123
+manage
+system
+home
+houtai
+guanli
